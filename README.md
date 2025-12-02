@@ -50,7 +50,7 @@ This is exactly how modern foundation models like **DINO**, **MAE**, and parts o
 
 | Method                  | Labels Used in Pre-training | Epochs | Test Accuracy | Training Time (Colab T4) |
 |-------------------------|-----------------------------|--------|---------------|--------------------------|
-| **SimSiam (this project)** | **0**                   | 100    | **91.2%**     | **~38 min**              |
+| **SimSiam (this project)** | **0**                   | 100    | **74%**     | **~38 min**              |
 
 **91% of supervised performance with 0% labels!**
 
