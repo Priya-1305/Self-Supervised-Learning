@@ -25,7 +25,7 @@ The model has:
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 
-**91.2% test accuracy using ZERO labeled data during pre-training!**
+**73.77% test accuracy using ZERO labeled data during pre-training!**
 
 A complete, from-scratch implementation of **SimSiam** — one of the simplest and most powerful self-supervised learning methods — trained on CIFAR-10.
 
