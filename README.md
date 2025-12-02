@@ -1,5 +1,5 @@
 # Self-Supervised Learning
-** ResNet-18 on CIFAR-10**
+** ResNet on CIFAR-10**
 
 Before going label-free with self-supervised learning , I started with the foundation: **Supervised Learning**.
 
