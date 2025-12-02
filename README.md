@@ -52,6 +52,6 @@ This is exactly how modern foundation models like **DINO**, **MAE**, and parts o
 |-------------------------|-----------------------------|--------|---------------|--------------------------|
 | **SimSiam (this project)** | **0**                   | 100    | **74%**     | **~38 min**              |
 
-**91% of supervised performance with 0% labels!**
+**73% of supervised performance with 0% labels!**
 
 
