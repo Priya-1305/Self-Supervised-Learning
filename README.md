@@ -40,7 +40,7 @@ Here:
 - I only showed it two randomly cropped + color-distorted versions of the same image.
 - I told it: “Learn to predict that these two views belong together.”
 - After 100 epochs of this “guessing game”, I froze the model and added a tiny classifier on top.
-- Result → **91.2% accuracy** on the real test set!
+- Result → **73.77% accuracy** on the real test set!
 
 That means the model learned powerful visual features (edges, shapes, textures, objects) **without ever being told what anything is**.
 
